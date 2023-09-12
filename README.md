@@ -13,15 +13,17 @@
 
 - 🔭 Currently working on Front-End Projects with **React**
 
-- 🌱 Currently learning Android App Development
+- 🌱 Currently learning backend with **mySQL**
 
-- 💬 Ask me about: **My Android Project**
+- 💬 Ask me about: **My next hackathon project!**
 
 - 📫 Reach me here: **kim.min.mkk@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kim-min-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="123123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kim-min-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" /></a>
+<a href="https://devpost.com/CMK62" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" alt="DevPost" height="50" width="70" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
