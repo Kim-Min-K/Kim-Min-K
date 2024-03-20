@@ -17,7 +17,7 @@
 
 - 💬 Ask me about: **My next hackathon project!**
 
-- 📫 Reach me here: **kim.min.mkk@gmail.com**
+- 📫 Reach me here: **kkmindev@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
