@@ -9,13 +9,13 @@
 
 <h3 align="center"></h3>
 <img align = "right" width = '400' src = "https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2NzMyNjIsIm5iZiI6MTcwNjY3Mjk2MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDAzNDkyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2NjNjODlkMWJmMWU0YjNjODVhYjgxNmYyY2UwYzUwYzVhOTRjYmI5ZTY2MzNiNzA0YmE1NDg5OTU3NDdhZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mO3LveVm528YPvgM-g-8MhLZBSmGt3kCBvQ_RLqwUr8">
- 🎓 I’m currently in my Third Year of University
+ 🎓 I’m currently in my Fourth Year of University
 
-- 🔭 Currently working on Front-End Projects with **React**
+- 🔭 Currently working on: **REST web applications**
 
-- 🌱 Currently learning backend with **mySQL**
+- 🌱 Currently learning: **NoSQL with MongoDB**
 
-- 💬 Ask me about: **My next hackathon project!**
+- 💬 Ask me about: **My next project!**
 
 - 📫 Reach me here: **kkmindev@gmail.com**
   
