@@ -51,17 +51,17 @@ class Min:
 <table>
   <tr>
     <td valign="middle">
-      <a href="mailto:your-email@gmail.com">
+      <a href="kkmindev@gmail.com">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" height="27" width="27" alt="gmail" />
       </a>
     </td>
     <td valign="middle">
-      <a href="https://linkedin.com/in/" target="blank">
+      <a href="https://linkedin.com/in/Kim-Min-K" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="27" width='27' alt="LinkedIn" />
       </a>
     </td>
     <td valign="middle">
-      <a href="https://devpost.com/" target="blank">
+      <a href="https://devpost.com/CMK62" target="blank">
         <img src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" height="30" alt="DevPost" />
       </a>
     </td>
